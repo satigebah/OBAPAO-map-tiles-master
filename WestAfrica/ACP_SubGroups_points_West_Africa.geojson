@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ACP_SubGroups_points_West_Africa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Group": "Western Africa" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -4.755346357721351, 16.929093761592711 ] ] } }
+]
+}
